@@ -10,3 +10,8 @@ Example:
     notice(higher(3,2))
 
 *Output:* 3
+
+Known issues
+------------
+
+Nesting defn statements or referencing variables from outside of the block can lead to undefined behaviour.
