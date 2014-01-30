@@ -1,6 +1,8 @@
 A Puppet function to define Puppet functions in Puppet
 ======================================================
 
+Requires the future parser to work.
+
 Example:
 --------
 
